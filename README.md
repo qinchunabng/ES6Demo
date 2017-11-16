@@ -1,7 +1,7 @@
 # ES6Demo
 ES6新特性
 
-//1.let的用法
+	//1.let的用法
 	//先看如下例子：
 	var name0="zach";
 	while(true){
